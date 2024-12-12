@@ -33,7 +33,7 @@ To empower businesses with innovative solutions and unparalleled support, helpin
 ## Let's Connect
 - **Website:** [YourWebsiteHere.com](https://example.com)
 - **Email:** contact@strategysquad.com
-- **Social Media:** Follow us on [LinkedIn](https://linkedin.com) | [Twitter](https://twitter.com) | [Facebook](https://facebook.com)
+- **Social Media:** Follow us on [LinkedIn](https://linkedin.com) | [Twitter](https://x.com/StrategySquad_) | [Facebook](https://facebook.com)
 
 ---
 
