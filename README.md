@@ -1,6 +1,6 @@
 # StrategySquad
 
-![StrategySquad](https://via.placeholder.com/728x90.png?text=Your+StrategySquad+GIF+Here)
+![StrategySquad](https://i.gifer.com/Vp3L.gif)
 
 Welcome to **StrategySquad**! 🚀
 
